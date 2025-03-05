@@ -1,78 +1,41 @@
-<h1 align="center">¡Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">¡BIENVENIDO!</h1>
 
----
+<p align="center">
+  <img src="https://i.pinimg.com/originals/71/90/6c/71906c5eff4079a648c57aed47cc46fc.gif" width="1080"/>
+</p>
 
-![Imagen de bienvenida](https://url-de-la-imagen.com/imagen.jpg)
+Gracias por entrar a mi perfil, aqui Lisis! Actualmente estoy estudiando Ingeniería de Sistemas y estoy aprendiendo distintas 
+herramientas para crear software increíble (o eso espero XD) aunque últimamente estoy interesado en el mundo de la ciberseguridad.
 
----
+## Mis habilidades
+```text
+Experiencia en:
+    - [Lenguajes] Assembly, C++, GDScript, Java, Python.
+    - [Librerías] TKinter, Pygmame, SFML. 
 
-Soy un [tu profesión o pasión], me encanta [algo que te apasione], y actualmente estoy aprendiendo [tecnologías que estés estudiando].
+Actualmente estoy aprendiendo:
+    - [Lenguajes] JavaScript.
+    - [SO] Linux 🤑
+```
 
-## 🚀 ¿Qué hago?
+## Mis proyectos más destacados
 
-- Desarrollo proyectos en [lenguajes de programación que usas].
-- Me gusta colaborar en proyectos de código abierto.
-- Me interesa [temas que te apasionan, como Inteligencia Artificial, Desarrollo Web, etc.].
-- Estoy construyendo [nombre de proyecto o ideas en las que trabajas].
+### [DoceCuotas] https://github.com/itsLisis/DoceCuotas
+```text
+DoceCuotas es una calculadora financiera potenciada con inteligencia artificial enfocada principalmente en la educación, 
+permitiendo realizar calculos de flujos y elecciones de alternativas en un proyecto.
+```
 
-## 🌱
+### [DDoSimulator] https://github.com/k3ntd4i/DDoSimulator
+```text
+DDoSimulator es un juego para escritorio inspirado en Plague Inc. un videojuego que consiste en infectar todo el planeta
+con un virus que tu mismo creaste. ¿Cual es la diferencia con nuestro juego? Que eres un hacker y deber atacar a todas las
+empresas del mundo con un virus informático que evoluciona a lo largo de la pargida.
+```
 
+### Información extra ;) 
+Además de estar interesado por la tecnología y el desarrollo de software, también me encanta el anime y los videojuegos, así que
+si gustas, puedes contactarme para platicar y jugar lolcito:
 
----
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TU_ID_DE_DISCORD)
 
-![Imagen de bienvenida](https://url-de-la-imagen.com/imagen.jpg)
-
----
-
-Soy un [tu profesión o pasión], me encanta [algo que te apasione], y actualmente estoy aprendiendo [tecnologías que estés estudiando].
-
-## 🚀 ¿Qué hago?
-
-- Desarrollo proyectos en [lenguajes de programación que usas].
-- Me gusta colaborar en proyectos de código abierto.
-- Me interesa [temas que te apasionan, como Inteligencia Artificial, Desarrollo Web, etc.].
-- Estoy construyendo [nombre de proyecto o ideas en las que trabajas].
-
-## 🌱 Actualmente estoy aprendiendo
-
-- [Tecnología o herramientas que estás aprendiendo].
-- [Más tecnologías o habilidades que estás desarrollando].
-
-## 💻 Mis proyectos más destacados
-
-### [Nombre del Proyecto](link del repositorio)
-Breve descripción de lo que hace el proyecto.
-
-### [Nombre del Proyecto](link del repositorio)
-Breve descripción de lo que hace el proyecto.
-
-## 📫 ¿Cómo contactarme?
-
-- Correo: [tu correo]
-- Twitter: [tu cuenta de Twitter]
-- LinkedIn: [tu LinkedIn]
-- [Otros enlaces como tu página web personal, blog, etc.]
-
----
-
-<div style="background-color:#f0f0f0; padding: 10px; border-radius: 8px; border: 1px solid #ccc;">
-  <strong>📝 Nota importante:</strong> Este es un cuadro que muestra información importante. Puedes personalizar el color y el estilo usando HTML y CSS.
-</div>
-
-<div style="background-color:#e7f9e7; padding: 10px; border-radius: 8px; border: 1px solid #b0eab0;">
-  <strong>🌱 Actualmente aprendiendo:</strong> Estoy aprendiendo nuevas tecnologías como React y Node.js.
-</div>
-
----
-
-## 🔧 Herramientas y tecnologías que utilizo
-
-- Lenguajes de programación: JavaScript, Python, etc.
-- Frameworks: React, Node.js, etc.
-- Herramientas: Git, Docker, etc.
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
