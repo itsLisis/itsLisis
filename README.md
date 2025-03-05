@@ -35,7 +35,4 @@ empresas del mundo con un virus informático que evoluciona a lo largo de la par
 
 ### Información extra ;) 
 Además de estar interesado por la tecnología y el desarrollo de software, también me encanta el anime y los videojuegos, así que
-si gustas, puedes contactarme para platicar y jugar lolcito:
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TU_ID_DE_DISCORD)
-
+si gustas, puedes contactarme por Discord para platicar y jugar lolcito: mylisis
